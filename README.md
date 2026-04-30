@@ -602,6 +602,8 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 - **[macOSWorld: An Interactive Benchmark for GUI Agents](https://arxiv.org/abs/2506.04135)** (*2025*) `Arxiv`
   > Paper presents macOSWorld, first macOS GUI agent benchmark with multilingual tasks and safety subset, bridging OS evaluation gaps.
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — AI monitoring dashboard for AI agents and LLMs (Vue3 + Node.js, open source). [![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)](https://github.com/flik2002/openclaw-monitor-frontend)
+
 - **[Humanity's Last Exam](https://arxiv.org/abs/2501.14249)** (*2025*) `Arxiv`
   > Introduces Humanity's Last Exam (HLE), a multi - modal, broad - coverage benchmark for LLMs, gap shown, and publicly released for research.
 
