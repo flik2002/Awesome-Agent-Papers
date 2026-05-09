@@ -14,7 +14,7 @@
 
 ## 🌟 Overview
 
-- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — 🤖 AI 监控 AI。全球首个由 AI 自身驱动开发的 Agent 监控系统。Vue3 前端 + Node.js 后端，开箱即用，Demo → http://47.109.47.116/ ![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — 🤖 AI 监控 AI。全球首个由 AI 自身驱动开发的 Agent 监控系统。Vue3 前端 + Node.js 后端，开箱即用，Demo → http://47.109.47.116/ ![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
 
 
 This repository contains a **comprehensive collection** of research papers on Large Language Model (LLM) agents. We organize papers across key categories including agent construction, collaboration mechanisms, evolution, tools, security, benchmarks, and applications.
